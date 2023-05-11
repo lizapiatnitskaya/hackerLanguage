@@ -6,7 +6,7 @@ function hacker(letter){
             hacker_string+="0";
             break;
         case "i":
-            hacker_string+="1";
+            hacker_string+="11";
             break;
         case "s":
             hacker_string+="$";
